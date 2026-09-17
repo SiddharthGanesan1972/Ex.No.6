@@ -1,6 +1,5 @@
 # Ex.No.6 AI-Assisted Programming and Debugging
 
-## Date: 30/08/2026
 ## Name : siddharth g
 ## Register No.: 212223060263
 
